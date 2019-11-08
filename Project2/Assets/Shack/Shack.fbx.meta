@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: 357e5bdd08b8c354f83e909091a05906
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      43: 4300000
+    second: roof_left
+  - first:
+      43: 4300002
+    second: roof_support_front
+  - first:
+      43: 4300004
+    second: roof_support_back
+  - first:
+      43: 4300006
+    second: hut_corner_1
+  - first:
+      43: 4300008
+    second: stilt_1
+  - first:
+      43: 4300010
+    second: chimney
+  - first:
+      43: 4300012
+    second: hut_front_wall
+  - first:
+      43: 4300014
+    second: porch_roof
+  - first:
+      43: 4300016
+    second: doorFrame_1
+  - first:
+      43: 4300018
+    second: doorFrame_2
+  - first:
+      43: 4300020
+    second: doorFrame_3
+  - first:
+      43: 4300022
+    second: porch_support_1
+  - first:
+      43: 4300024
+    second: hut_back_wall
+  - first:
+      43: 4300026
+    second: hut_left_wall
+  - first:
+      43: 4300028
+    second: hut_front_top
+  - first:
+      43: 4300030
+    second: base_plank_1
+  - first:
+      43: 4300032
+    second: base_plank_7
+  - first:
+      43: 4300034
+    second: base_plank_6
+  - first:
+      43: 4300036
+    second: base_plank_5
+  - first:
+      43: 4300038
+    second: base_plank_4
+  - first:
+      43: 4300040
+    second: base_plank_3
+  - first:
+      43: 4300042
+    second: base_plank_2
+  - first:
+      43: 4300044
+    second: stilt_2
+  - first:
+      43: 4300046
+    second: stilt_4
+  - first:
+      43: 4300048
+    second: stilt_6
+  - first:
+      43: 4300050
+    second: stilt_5
+  - first:
+      43: 4300052
+    second: stilt_support_2
+  - first:
+      43: 4300054
+    second: stilt_3
+  - first:
+      43: 4300056
+    second: stilt_support_1
+  - first:
+      43: 4300058
+    second: stilt_7
+  - first:
+      43: 4300060
+    second: ramp_base
+  - first:
+      43: 4300062
+    second: ramp_slat_1
+  - first:
+      43: 4300064
+    second: ramp_slat_2
+  - first:
+      43: 4300066
+    second: ramp_slat_3
+  - first:
+      43: 4300068
+    second: ramp_slat_4
+  - first:
+      43: 4300070
+    second: ramp_slat_5
+  - first:
+      43: 4300072
+    second: ramp_slat_6
+  - first:
+      43: 4300074
+    second: ramp_slat_7
+  - first:
+      43: 4300076
+    second: ramp_slat_8
+  - first:
+      43: 4300078
+    second: ramp_slat_9
+  - first:
+      43: 4300080
+    second: ramp_slat_10
+  - first:
+      43: 4300082
+    second: ramp_slat_11
+  - first:
+      43: 4300084
+    second: ramp_slat_12
+  - first:
+      43: 4300086
+    second: ramp_end_1
+  - first:
+      43: 4300088
+    second: roof_right
+  - first:
+      43: 4300090
+    second: hut_corner_2
+  - first:
+      43: 4300092
+    second: hut_corner_3
+  - first:
+      43: 4300094
+    second: hut_corner_4
+  - first:
+      43: 4300096
+    second: porch_support_2
+  - first:
+      43: 4300098
+    second: hut_right_wall
+  - first:
+      43: 4300100
+    second: ramp_end_2
+  - first:
+      43: 4300102
+    second: door
+  - first:
+      74: 7400000
+    second: Take 001 //// outpost
+  - first:
+      74: 7400002
+    second: idle //// outpost
+  - first:
+      74: 7400004
+    second: open //// outpost
+  - first:
+      74: 7400006
+    second: shut //// outpost
+  - first:
+      74: 7400008
+    second: dooropen //// outpost
+  - first:
+      74: 7400010
+    second: doorshut //// outpost
+  - first:
+      1001: 100100000
+    second: DataTemplate __Singleton__
+  - first:
+      74: 1827226128182048838
+    second: idle
+  - first:
+      74: -7156440825861976114
+    second: doorOpen
+  - first:
+      74: -5405653242291790180
+    second: doorShut
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: door_material
+    second: {fileID: 2100000, guid: 27675cef2b55e1542bcb2d5e366c8ebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 4a3e9ece89cc94e59921170f8144f72e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lwooden_boards_2_material
+    second: {fileID: 2100000, guid: 2ba96097ec0c4e544b5971f3cc0aa070, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_material
+    second: {fileID: 2100000, guid: 6acfd78238d32fa4a80ff4967f05ca39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_material_2
+    second: {fileID: 2100000, guid: 33e40fe1f9fd1ce4caf0e9ef9223fd34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_material_1
+    second: {fileID: 2100000, guid: 97438d11c15199241bfbda27424d4a4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_material_3
+    second: {fileID: 2100000, guid: 80f41e3ad7c7d3343b0e7e7855bb26da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_stump_material
+    second: {fileID: 2100000, guid: 5bb9b1d4a9ab64d49b0f274927d590a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wooden_boards_1_material
+    second: {fileID: 2100000, guid: 59d2deed57d16724eb11559f62f82a91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wooden_boards_3_material
+    second: {fileID: 2100000, guid: 0ef7967e916ed004f998b1868ffe222a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wooden_planks_material_1
+    second: {fileID: 2100000, guid: c88e4c521f8cc8d43818e38477071fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wooden_planks_material_2
+    second: {fileID: 2100000, guid: 592f7584c7077474586b55080ad9d3e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wooden_planks_material_3
+    second: {fileID: 2100000, guid: 01623fc734cb2e04bb929db5849d700b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: doorOpen
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 3
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: doorShut
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 13
+      lastFrame: 21
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.4
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 1
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1.4
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
