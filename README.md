@@ -1,13 +1,17 @@
-Duran-Project2
+Lawbriger
+
 A game produced at APU by Christian Duran!
 
 Contact: cduran17@apu.edu
 
 Description
-You are a vigilante. Track down your bounties and find out what justice means to you.
+
+You've been wronged. The sheriffs won't help you. Time to help yourself. 
 
 Instructions
-Find the build folder to play the game.
+
+TBA
 
 Controls
-Movement: W, A, S, D keys.
+
+Web: TBA
